@@ -1,0 +1,547 @@
+[2025-04-16 01:29:37] Connection from ('127.0.0.1', 54770)
+[2025-04-16 01:29:37] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:29:42] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:29:43] Added peer: {'ip': '127.0.0.1', 'port': 6453, 'username': 'dat', 'session_id': 'f55b5c8e-c355-4ff1-a6a0-80061a7dc9c6', 'visitor': False, 'invisible': False, 'online': True}
+[2025-04-16 01:29:43] Submitted info: {'type': 'submit_info', 'username': 'dat', 'port': 6453, 'session_id': 'f55b5c8e-c355-4ff1-a6a0-80061a7dc9c6', 'visitor': False, 'invisible': False}
+[2025-04-16 01:29:43] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:29:43] Peer entered authenticated mode
+4770): 1 peers
+[2025-04-16 01:29:43] Logged in as authenticated user: dat
+[2025-04-16 01:29:47] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:29:52] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:29:55] Connection from ('127.0.0.1', 54774)
+[2025-04-16 01:29:55] Sent channel list to ('127.0.0.1', 54774): ['general']
+[2025-04-16 01:29:57] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:30:00] Added peer: {'ip': '127.0.0.1', 'port': 6594, 'username': 'nhan', 'session_id': '762b0840-245c-4799-b02c-34d139735efe', 'visitor': False, 'invisible': False, 'online': True}
+[2025-04-16 01:30:00] Submitted info: {'type': 'submit_info', 'username': 'nhan', 'port': 6594, 'session_id': '762b0840-245c-4799-b02c-34d139735efe', 'visitor': False, 'invisible': False}
+[2025-04-16 01:30:00] Sent channel list to ('127.0.0.1', 54774): ['general']
+[2025-04-16 01:30:00] Sent peer list to ('127.0.0.1', 54774): 2 peers
+[2025-04-16 01:30:00] P2P connected to dat at 127.0.0.1:6453
+[2025-04-16 01:30:00] P2P connection established with ('127.0.0.1', 54775)
+[2025-04-16 01:30:00] Peer entered authenticated mode
+[2025-04-16 01:30:00] Logged in as authenticated user: nhan
+[2025-04-16 01:30:00] Sent channel list to ('127.0.0.1', 54774): ['general']
+[2025-04-16 01:30:02] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:30:05] Sent channel list to ('127.0.0.1', 54774): ['general']
+[2025-04-16 01:30:07] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:30:10] Sent channel list to ('127.0.0.1', 54774): ['general']
+[2025-04-16 01:30:11] Sent peer list to ('127.0.0.1', 54770): 2 peers
+[2025-04-16 01:30:11] P2P connection established with ('127.0.0.1', 54776)
+[2025-04-16 01:30:12] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:30:15] Sent channel list to ('127.0.0.1', 54774): ['general']
+[2025-04-16 01:30:17] Sent channel list to ('127.0.0.1', 54770): ['general']
+[2025-04-16 01:30:18] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:30:18] Created channel: lala by dat
+[2025-04-16 01:30:20] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:20] Updated channel list: ['general', 'lala']
+[2025-04-16 01:30:22] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:30:22] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:30:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:25] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:30] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:35] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:30:35] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:30:35] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:30:35] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:40] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:41] Sent peer list to ('127.0.0.1', 54770): 2 peers
+[2025-04-16 01:30:41] P2P sent message to ('127.0.0.1', 54775)
+[2025-04-16 01:30:41] P2P sent message to ('127.0.0.1', 6594)
+[2025-04-16 01:30:41] Sent message to channel lala: he
+[2025-04-16 01:30:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:45] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:46] Sent peer list to ('127.0.0.1', 54774): 2 peers
+[2025-04-16 01:30:46] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:30:46] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:30:46] Sent message to channel lala: heee
+[2025-04-16 01:30:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:50] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:30:55] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:30:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:00] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:01] Peer went invisible
+[2025-04-16 01:31:01] Submitted info: {'type': 'submit_info', 'username': 'nhan', 'port': 6594, 'session_id': '762b0840-245c-4799-b02c-34d139735efe', 'visitor': False, 'invisible': True}
+[2025-04-16 01:31:01] Updated peer status: IP=127.0.0.1, Port=6594, online=False, invisible=True
+[2025-04-16 01:31:01] Updated status: online=False, invisible=True
+[2025-04-16 01:31:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:05] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:09] P2P sent message to ('127.0.0.1', 54775)
+peers
+[2025-04-16 01:31:09] P2P sent message to ('127.0.0.1', 6594)
+[2025-04-16 01:31:09] Sent message to channel lala: he
+[2025-04-16 01:31:10] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:14] Added unsynced message to channel lala: nhan: he
+[2025-04-16 01:31:14] Sent message to channel lala: he
+[2025-04-16 01:31:15] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:18] Peer went online
+[2025-04-16 01:31:18] Added unsynced message to channel lala: nhan: he
+[2025-04-16 01:31:18] Synced message to server: nhan: he in channel lala
+
+[2025-04-16 01:31:18] Sent peer list to ('127.0.0.1', 54774): 1 peers
+[2025-04-16 01:31:18] Submitted info: {'type': 'submit_info', 'username': 'nhan', 'port': 6594, 'session_id': '762b0840-245c-4799-b02c-34d139735efe', 'visitor': False, 'invisible': False}
+[2025-04-16 01:31:18] Updated peer status: IP=127.0.0.1, Port=6594, online=True, invisible=False
+[2025-04-16 01:31:19] Updated status: online=True, invisible=False
+[2025-04-16 01:31:19] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:31:20] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:31:20] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:31:20] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:23] Livestream started
+[2025-04-16 01:31:23] P2P connection established with ('127.0.0.1', 54784)
+[2025-04-16 01:31:23] Notified dat of livestream start in lala
+[2025-04-16 01:31:23] P2P connection established with ('127.0.0.1', 54785)
+[2025-04-16 01:31:23] Notified nhan of livestream start in lala
+[2025-04-16 01:31:23] Started livestream in channel lala
+[2025-04-16 01:31:25] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:29] Livestream ended
+[2025-04-16 01:31:29] P2P connection established with ('127.0.0.1', 54786)
+[2025-04-16 01:31:29] Notified dat of livestream stop in lala
+[2025-04-16 01:31:29] P2P connection established with ('127.0.0.1', 54787)
+[2025-04-16 01:31:29] Notified nhan of livestream stop in lala
+[2025-04-16 01:31:29] Stopped livestream in channel lala
+[2025-04-16 01:31:30] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:32] Deleted message in channel lala: nhan stopped livestream in lala
+[2025-04-16 01:31:32] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:31:32] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:31:32] P2P sent message to ('127.0.0.1', 54785)
+[2025-04-16 01:31:32] P2P sent message to ('127.0.0.1', 54787)
+[2025-04-16 01:31:34] Deleted message in channel lala: nhan started livestream in lala
+[2025-04-16 01:31:34] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:31:34] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:31:34] P2P error sending message to ('127.0.0.1', 54785): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:34] P2P error sending message to ('127.0.0.1', 54787): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:35] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:40] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:44] Sent peer list to ('127.0.0.1', 54774): 2 peers
+[2025-04-16 01:31:44] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:31:44] P2P error sending message to ('127.0.0.1', 54785): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:44] P2P error sending message to ('127.0.0.1', 54787): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:44] Sent message to channel lala: he
+[2025-04-16 01:31:45] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:47] Deleted message in channel lala: nhan: he
+[2025-04-16 01:31:47] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:31:47] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:31:47] P2P error sending message to ('127.0.0.1', 54785): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:47] P2P error sending message to ('127.0.0.1', 54787): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:50] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:51] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:31:51] Sent peer list to ('127.0.0.1', 54774): 2 peers
+[2025-04-16 01:31:51] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:31:51] P2P error sending message to ('127.0.0.1', 54785): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:51] P2P error sending message to ('127.0.0.1', 54787): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:31:51] Sent message to channel lala: he
+[2025-04-16 01:31:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:31:55] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:31:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:00] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:05] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:10] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:15] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:19] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:32:19] Sent peer list to ('127.0.0.1', 54774): 2 peers
+[2025-04-16 01:32:19] P2P sent message to ('127.0.0.1', 54776)
+[2025-04-16 01:32:19] P2P error sending message to ('127.0.0.1', 54785): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:32:19] P2P error sending message to ('127.0.0.1', 54787): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:32:19] Sent message to channel lala: hhaaaa
+[2025-04-16 01:32:20] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:25] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:25] P2P sent message to ('127.0.0.1', 54775)
+peers
+[2025-04-16 01:32:25] P2P sent message to ('127.0.0.1', 6594)
+[2025-04-16 01:32:25] P2P sent message to ('127.0.0.1', 54783)
+[2025-04-16 01:32:25] P2P sent message to ('127.0.0.1', 54784)
+[2025-04-16 01:32:25] P2P sent message to ('127.0.0.1', 54786)
+[2025-04-16 01:32:25] Sent message to channel lala: heeeee
+[2025-04-16 01:32:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:30] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:35] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:40] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:45] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:50] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:32:55] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:32:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:00] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:05] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:10] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:15] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:20] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:25] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:30] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:35] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:40] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:45] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala']
+[2025-04-16 01:33:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala']
+[2025-04-16 01:33:50] Fetched 2 messages from centralized_server for channel heee
+[2025-04-16 01:33:50] Created channel: heee by dat
+[2025-04-16 01:33:50] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:33:52] Fetched 1 messages from centralized_server for channel heee
+[2025-04-16 01:33:52] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:33:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:33:56] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:33:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:01] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:06] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:11] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:16] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:21] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:26] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:31] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:36] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:41] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:41] Fetched 2 messages from centralized_server for channel heee
+[2025-04-16 01:34:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:46] Fetched 1 messages from centralized_server for channel heee
+[2025-04-16 01:34:46] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:34:46] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:51] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:56] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:34:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:34:58] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:35:01] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:02] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:35:02] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:35:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:06] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:07] P2P sent message to nhan
+[2025-04-16 01:35:07] Sent message to peer nhan: hhhh
+[2025-04-16 01:35:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:11] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:16] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:18] P2P sent message to dat
+[2025-04-16 01:35:18] Sent message to peer dat: hhhhhh
+[2025-04-16 01:35:21] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:26] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:31] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:35] P2P sent message to nhan
+[2025-04-16 01:35:35] Sent message to peer nhan: hhhhhhhh
+[2025-04-16 01:35:36] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:41] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:46] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:51] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:35:54] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:35:56] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:35:56] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:35:56] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:35:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:00] P2P sent message to nhan
+[2025-04-16 01:36:00] Sent message to peer nhan: hhhhhhhh
+[2025-04-16 01:36:01] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:06] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:08] Fetched 2 messages from centralized_server for channel general
+[2025-04-16 01:36:11] Fetched 2 messages from centralized_server for channel general
+[2025-04-16 01:36:11] Fetched 1 messages from centralized_server for channel general
+[2025-04-16 01:36:11] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:36:11] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:12] Fetched 1 messages from centralized_server for channel general
+[2025-04-16 01:36:12] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:36:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:16] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:17] P2P sent message to nhan
+[2025-04-16 01:36:18] Sent message to peer nhan: hhhhhhhh
+[2025-04-16 01:36:21] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:26] P2P sent message to dat
+7.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:26] Sent message to peer dat: fghjkl;
+[2025-04-16 01:36:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:31] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:32] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:34] Connection from ('127.0.0.1', 54822)
+[2025-04-16 01:36:34] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:36:34] Updated channel list: ['general', 'lala', 'heee']
+[2025-04-16 01:36:36] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:37] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:39] Added peer: {'ip': '127.0.0.1', 'port': 6450, 'username': 'va', 'session_id': '17caf1d9-8452-4672-b0f8-3fc15585790b', 'visitor': False, 'invisible': False, 'online': True}
+[2025-04-16 01:36:39] Submitted info: {'type': 'submit_info', 'username': 'va', 'port': 6450, 'session_id': '17caf1d9-8452-4672-b0f8-3fc15585790b', 'visitor': False, 'invisible': False}
+[2025-04-16 01:36:39] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:36:39] P2P connection established with ('127.0.0.1', 54824)
+[2025-04-16 01:36:39] P2P connected to dat at 127.0.0.1:6453
+[2025-04-16 01:36:39] Sent peer list to ('127.0.0.1', 54822): 3 peers
+[2025-04-16 01:36:39] P2P connected to nhan at 127.0.0.1:6594
+.1', 54825)
+[2025-04-16 01:36:39] Peer entered authenticated mode
+[2025-04-16 01:36:39] Logged in as authenticated user: va
+[2025-04-16 01:36:39] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:36:41] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:42] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:44] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:36:46] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:47] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:49] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:36:49] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:36:51] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:52] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:36:52] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:54] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:36:54] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:36:56] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:36:56] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:36:56] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:36:57] Fetched 2 messages from centralized_server for channel lala
+[2025-04-16 01:36:57] Fetched 1 messages from centralized_server for channel lala
+[2025-04-16 01:36:57] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:36:57] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:36:59] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:01] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:02] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:03] P2P sent message to nhan
+[2025-04-16 01:37:03] Sent message to peer nhan: hhhhhh
+[2025-04-16 01:37:04] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:05] Sent peer list to ('127.0.0.1', 54770): 3 peers
+[2025-04-16 01:37:05] Sent peer list to ('127.0.0.1', 54770): 3 peers
+28)
+[2025-04-16 01:37:06] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:07] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:09] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:11] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:12] P2P sent message to nhan
+[2025-04-16 01:37:12] Sent message to peer nhan: hhhhhhhh
+[2025-04-16 01:37:12] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:14] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:16] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:17] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:19] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:21] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:22] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:24] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:26] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:27] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:28] P2P sent message to ('127.0.0.1', 54775)
+peers
+[2025-04-16 01:37:28] P2P sent message to ('127.0.0.1', 6594)
+[2025-04-16 01:37:28] P2P error sending message to ('127.0.0.1', 54783): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:37:28] P2P error sending message to ('127.0.0.1', 54784): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:37:28] P2P error sending message to ('127.0.0.1', 54786): [WinError 10053] An established connection was aborted by the software in your host machine
+[2025-04-16 01:37:28] P2P sent message to ('127.0.0.1', 54824)
+[2025-04-16 01:37:28] P2P sent message to ('127.0.0.1', 6450)
+[2025-04-16 01:37:28] Sent message to channel lala: hhhhhhhhhh
+[2025-04-16 01:37:29] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:31] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:33] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:34] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:36] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:38] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:39] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:41] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:43] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:44] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:46] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:48] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:48] Sent peer list to ('127.0.0.1', 54822): 3 peers
+[2025-04-16 01:37:48] P2P sent message to ('127.0.0.1', 6453)
+[2025-04-16 01:37:48] P2P sent message to ('127.0.0.1', 6594)
+[2025-04-16 01:37:48] P2P sent message to ('127.0.0.1', 54828)
+[2025-04-16 01:37:48] Sent message to channel lala: hhhhhhhhh
+[2025-04-16 01:37:49] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:51] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:53] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:54] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:37:56] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:37:58] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:37:59] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:01] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:03] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:04] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:06] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:07] Livestream started
+[2025-04-16 01:38:07] P2P connection established with ('127.0.0.1', 54839)
+[2025-04-16 01:38:07] Notified dat of livestream start in lala
+[2025-04-16 01:38:07] P2P connection established with ('127.0.0.1', 54840)
+[2025-04-16 01:38:07] Notified nhan of livestream start in lala
+[2025-04-16 01:38:07] P2P connection established with ('127.0.0.1', 54841)
+[2025-04-16 01:38:07] Notified va of livestream start in lala
+[2025-04-16 01:38:07] Started livestream in channel lala
+[2025-04-16 01:38:08] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:09] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:11] Livestream ended
+[2025-04-16 01:38:11] P2P connection established with ('127.0.0.1', 54842)
+[2025-04-16 01:38:11] Notified dat of livestream stop in lala
+[2025-04-16 01:38:11] P2P connection established with ('127.0.0.1', 54843)
+[2025-04-16 01:38:11] Notified nhan of livestream stop in lala
+[2025-04-16 01:38:11] P2P connection established with ('127.0.0.1', 54844)
+[2025-04-16 01:38:11] Notified va of livestream stop in lala
+[2025-04-16 01:38:11] Stopped livestream in channel lala
+[2025-04-16 01:38:11] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:13] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:14] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:16] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:18] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:19] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:21] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:24] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:24] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:26] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:29] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:29] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:31] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:34] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:34] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:36] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:39] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:39] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:41] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:44] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:44] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:46] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:49] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:49] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:51] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:54] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:54] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:38:56] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:38:59] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:38:59] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:01] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:04] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:04] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:06] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:09] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:09] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:11] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:14] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:14] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:16] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:19] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:19] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:21] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:24] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:24] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:26] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:29] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:29] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:30] Fetched 2 messages from centralized_server for channel general
+[2025-04-16 01:39:31] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:33] Fetched 2 messages from centralized_server for channel general
+[2025-04-16 01:39:34] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:34] Fetched 1 messages from centralized_server for channel general
+[2025-04-16 01:39:34] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:36] Fetched 1 messages from centralized_server for channel general
+[2025-04-16 01:39:36] [ERROR] Failed to fetch channel list (attempt 1/3): ValueError: Expected list of channels, got: {'type': 'get_channel_list'}
+[2025-04-16 01:39:36] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:39] Sent channel list to ('127.0.0.1', 54770): ['general', 'lala', 'heee']
+[2025-04-16 01:39:39] Sent channel list to ('127.0.0.1', 54822): ['general', 'lala', 'heee']
+[2025-04-16 01:39:39] Error handling client ('127.0.0.1', 54770): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-16 01:39:39] Connection lost in receive_messages: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-16 01:39:39] Connection lost in receive_messages: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-16 01:39:39] Connection lost in receive_messages: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-16 01:39:39] Connection lost in receive_messages: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-16 01:39:41] Error handling client ('127.0.0.1', 54822): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-16 01:39:41] Sent channel list to ('127.0.0.1', 54774): ['general', 'lala', 'heee']
+[2025-04-16 01:39:43] Error handling client ('127.0.0.1', 54774): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-19 01:43:42] Connection from ('127.0.0.1', 49779)
+[2025-04-19 01:43:42] Sent channel list to ('127.0.0.1', 49779): ['general']
+[2025-04-19 01:43:46] Added peer: {'ip': '127.0.0.1', 'port': 6400, 'username': 'dat', 'session_id': '4395b13b-3463-4d7d-82c9-bc7bb32100ac', 'visitor': False, 'invisible': False, 'online': True}
+[2025-04-19 01:43:46] Submitted info: {'type': 'submit_info', 'username': 'dat', 'port': 6400, 'session_id': '4395b13b-3463-4d7d-82c9-bc7bb32100ac', 'visitor': False, 'invisible': False}
+[2025-04-19 01:43:46] Sent channel list to ('127.0.0.1', 49779): ['general']
+[2025-04-19 01:43:46] Peer entered authenticated mode
+[2025-04-19 01:43:46] Sent peer list to ('127.0.0.1', 49779): 1 peers
+[2025-04-19 01:43:46] Logged in as authenticated user: dat
+[2025-04-19 01:43:47] Sent channel list to ('127.0.0.1', 49779): ['general']
+[2025-04-19 01:43:52] Sent channel list to ('127.0.0.1', 49779): ['general']
+[2025-04-19 01:43:55] Fetched 2 messages from centralized_server for channel laa
+[2025-04-19 01:43:55] Created channel: laa by dat
+[2025-04-19 01:43:57] Fetched 1 messages from centralized_server for channel laa
+[2025-04-19 01:43:57] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:02] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:07] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:12] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:17] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:22] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:27] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:32] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:37] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:42] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:46] Connection from ('127.0.0.1', 49806)
+[2025-04-19 01:44:46] Updated channel list: ['general', 'laa']
+ ['general', 'laa']
+[2025-04-19 01:44:47] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:51] Sent channel list to ('127.0.0.1', 49806): ['general', 'laa']
+[2025-04-19 01:44:52] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:44:52] Added peer: {'ip': '127.0.0.1', 'port': 6979, 'username': 'dat', 'session_id': 'a45006c3-eb40-4ab8-bee5-075e8e5841bd', 'visitor': False, 'invisible': False, 'online': True}
+[2025-04-19 01:44:52] Submitted info: {'type': 'submit_info', 'username': 'dat', 'port': 6979, 'session_id': 'a45006c3-eb40-4ab8-bee5-075e8e5841bd', 'visitor': False, 'invisible': False}
+[2025-04-19 01:44:52] Sent channel list to ('127.0.0.1', 49806): ['general', 'laa']
+[2025-04-19 01:44:52] Sent peer list to ('127.0.0.1', 49806): 2 peers
+07)
+[2025-04-19 01:44:52] Peer entered authenticated mode
+[2025-04-19 01:44:52] Logged in as authenticated user: dat
+[2025-04-19 01:44:56] Sent channel list to ('127.0.0.1', 49806): ['general', 'laa']
+[2025-04-19 01:44:57] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:01] Sent channel list to ('127.0.0.1', 49806): ['general', 'laa']
+[2025-04-19 01:45:02] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:06] Sent channel list to ('127.0.0.1', 49806): ['general', 'laa']
+[2025-04-19 01:45:07] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:07] Error handling client ('127.0.0.1', 49806): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-19 01:45:12] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:17] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:22] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:27] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:32] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:37] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:42] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:47] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:52] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-19 01:45:57] Sent channel list to ('127.0.0.1', 49779): ['general', 'laa']
+[2025-04-20 19:57:16] Connection from ('127.0.0.1', 55655)
+[2025-04-20 19:57:16] Sent channel list to ('127.0.0.1', 55655): ['general']
+[2025-04-20 19:57:21] Sent channel list to ('127.0.0.1', 55655): ['general']
+[2025-04-20 19:57:23] Added peer: {'ip': '127.0.0.1', 'port': 6376, 'username': 'Visitor_490ded96', 'session_id': '490ded96-f895-4640-87a6-61e396fb6880', 'visitor': True, 'invisible': False, 'online': True}
+[2025-04-20 19:57:23] Submitted info: {'type': 'submit_info', 'username': 'Visitor_490ded96', 'port': 6376, 'session_id': '490ded96-f895-4640-87a6-61e396fb6880', 'visitor': True, 'invisible': False}
+[2025-04-20 19:57:23] Sent channel list to ('127.0.0.1', 55655): ['general']
+[2025-04-20 19:57:23] Peer entered visitor mode
+.1', 55655): 1 peers
+[2025-04-20 19:57:23] Joined as visitor: Visitor_490ded96
+[2025-04-20 19:57:26] Sent channel list to ('127.0.0.1', 55655): ['general']
+[2025-04-20 19:57:29] Error handling client ('127.0.0.1', 55655): [WinError 10054] An existing connection was forcibly closed by the remote host
