@@ -1,65 +1,32 @@
-[2025-04-16 01:30:41] Channel: lala, Sender: nhan, Message: dat: he, Status: ACTIVE
-[2025-04-16 01:30:41] Channel: lala, Sender: nhan, Message: dat: he, Status: ACTIVE
-[2025-04-16 01:30:41] Channel: lala, Sender: dat, Message: dat: he, Status: ACTIVE
-[2025-04-16 01:30:46] Channel: lala, Sender: dat, Message: nhan: heee, Status: ACTIVE
-[2025-04-16 01:30:46] Channel: lala, Sender: dat, Message: nhan: heee, Status: ACTIVE
-[2025-04-16 01:30:46] Channel: lala, Sender: nhan, Message: nhan: heee, Status: ACTIVE
-[2025-04-16 01:31:09] Channel: lala, Sender: nhan, Message: dat: he, Status: ACTIVE
-[2025-04-16 01:31:09] Channel: lala, Sender: nhan, Message: dat: he, Status: ACTIVE
-[2025-04-16 01:31:09] Channel: lala, Sender: dat, Message: dat: he, Status: ACTIVE
-[2025-04-16 01:31:14] Channel: lala, Sender: nhan, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:18] Channel: lala, Sender: dat, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:18] Channel: lala, Sender: dat, Message: nhan: he, Status: ACTIVE
-E
-[2025-04-16 01:31:23] Channel: lala, Sender: system, Message: nhan started livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:23] Channel: lala, Sender: nhan, Message: nhan started livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:23] Channel: lala, Sender: system, Message: nhan started livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:29] Channel: lala, Sender: nhan, Message: nhan stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:29] Channel: lala, Sender: system, Message: nhan stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:29] Channel: lala, Sender: nhan, Message: nhan stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:29] Channel: lala, Sender: system, Message: nhan stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:31:32] Channel: lala, Sender: nhan, Message: nhan stopped livestream in lala, Status: DELETED
-[2025-04-16 01:31:32] Channel: lala, Sender: dat, Message: nhan stopped livestream in lala, Status: DELETED
-[2025-04-16 01:31:34] Channel: lala, Sender: nhan, Message: nhan started livestream in lala, Status: DELETED
-[2025-04-16 01:31:34] Channel: lala, Sender: dat, Message: nhan started livestream in lala, Status: DELETED
-[2025-04-16 01:31:44] Channel: lala, Sender: dat, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:44] Channel: lala, Sender: dat, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:44] Channel: lala, Sender: nhan, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:47] Channel: lala, Sender: nhan, Message: nhan: he, Status: DELETED
-[2025-04-16 01:31:47] Channel: lala, Sender: dat, Message: nhan: he, Status: DELETED
-[2025-04-16 01:31:47] Channel: lala, Sender: dat, Message: nhan: he, Status: DELETED
-[2025-04-16 01:31:51] Channel: lala, Sender: dat, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:51] Channel: lala, Sender: dat, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:31:51] Channel: lala, Sender: nhan, Message: nhan: he, Status: ACTIVE
-[2025-04-16 01:32:19] Channel: lala, Sender: dat, Message: nhan: hhaaaa, Status: ACTIVE
-[2025-04-16 01:32:19] Channel: lala, Sender: dat, Message: nhan: hhaaaa, Status: ACTIVE
-[2025-04-16 01:32:19] Channel: lala, Sender: nhan, Message: nhan: hhaaaa, Status: ACTIVE
-[2025-04-16 01:32:25] Channel: lala, Sender: nhan, Message: dat: heeeee, Status: ACTIVE
-[2025-04-16 01:32:25] Channel: lala, Sender: nhan, Message: dat: heeeee, Status: ACTIVE
-[2025-04-16 01:32:25] Channel: lala, Sender: dat, Message: dat: heeeee, Status: ACTIVE
-[2025-04-16 01:36:00] Channel: lala, Sender: nhan, Message: dat: hhhhhhhh, Status: ACTIVE
-[2025-04-16 01:36:17] Channel: general, Sender: nhan, Message: dat: hhhhhhhh, Status: ACTIVE
-[2025-04-16 01:36:26] Channel: general, Sender: dat, Message: nhan: fghjkl;, Status: ACTIVE
-[2025-04-16 01:37:03] Channel: lala, Sender: nhan, Message: dat: hhhhhh, Status: ACTIVE
-[2025-04-16 01:37:12] Channel: lala, Sender: nhan, Message: dat: hhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:28] Channel: lala, Sender: nhan, Message: dat: hhhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:28] Channel: lala, Sender: nhan, Message: dat: hhhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:28] Channel: lala, Sender: va, Message: dat: hhhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:28] Channel: lala, Sender: va, Message: dat: hhhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:28] Channel: lala, Sender: dat, Message: dat: hhhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:48] Channel: lala, Sender: dat, Message: va: hhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:48] Channel: lala, Sender: nhan, Message: va: hhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:48] Channel: lala, Sender: dat, Message: va: hhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:37:48] Channel: lala, Sender: va, Message: va: hhhhhhhhh, Status: ACTIVE
-[2025-04-16 01:38:07] Channel: lala, Sender: va, Message: va started livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:07] Channel: lala, Sender: system, Message: va started livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:07] Channel: lala, Sender: va, Message: va started livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:07] Channel: lala, Sender: system, Message: va started livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:07] Channel: lala, Sender: va, Message: va started livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:07] Channel: lala, Sender: system, Message: va started livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:11] Channel: lala, Sender: va, Message: va stopped livestream in lala, Status: ACTIVE
-VE
-[2025-04-16 01:38:11] Channel: lala, Sender: system, Message: va stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:11] Channel: lala, Sender: va, Message: va stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:11] Channel: lala, Sender: va, Message: va stopped livestream in lala, Status: ACTIVE
-[2025-04-16 01:38:11] Channel: lala, Sender: system, Message: va stopped livestream in lala, Status: ACTIVE
+[2025-04-26 23:42:51] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] Kênh 'lalaal' được tạo bởi dat, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:42:51] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] Kênh 'lalaal' được tạo bởi dat, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:42:51] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] Kênh 'lalaal' được tạo bởi dat, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:42:51] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] Kênh 'lalaal' được tạo bởi dat, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:42:55] Kênh: lalaal, Người gửi: nhân, Tin nhắn: dat: hello, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:42:55] Kênh: lalaal, Người gửi: nhân, Tin nhắn: dat: hello, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:04] Kênh: lalaal, Người gửi: nhân, Tin nhắn: nhân: hlllll, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:04] Kênh: lalaal, Người gửi: dat, Tin nhắn: nhân: hlllll, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:04] Kênh: lalaal, Người gửi: dat, Tin nhắn: nhân: hlllll, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:09] Kênh: lalaal, Người gửi: nhân, Tin nhắn: dat: eeee, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:09] Kênh: lalaal, Người gửi: dat, Tin nhắn: dat: eeee, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:09] Kênh: lalaal, Người gửi: nhân, Tin nhắn: dat: eeee, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:43:16] Kênh: lalaal, Người gửi: dat, Tin nhắn: nhân: eeee, Trạng thái: HOẠT ĐỘNG
+
+[2025-04-26 23:43:16] Kênh: lalaal, Người gửi: dat, Tin nhắn: nhân: eeee, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] dat là peer chính livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] dat là peer chính livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: dat, Tin nhắn: dat bắt đầu livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: dat, Tin nhắn: dat bắt đầu livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] dat là peer chính livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: system, Tin nhắn: dat bắt đầu livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: system, Tin nhắn: [SYSTEM] dat là peer chính livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:44:59] Kênh: lalaal, Người gửi: system, Tin nhắn: dat bắt đầu livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:02] Kênh: lalaal, Người gửi: dat, Tin nhắn: dat dừng livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:02] Kênh: lalaal, Người gửi: dat, Tin nhắn: dat dừng livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:02] Kênh: lalaal, Người gửi: system, Tin nhắn: dat dừng livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:02] Kênh: lalaal, Người gửi: system, Tin nhắn: dat dừng livestream trong lalaal, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:12] Kênh: lalaal, Người gửi: nhân, Tin nhắn: nhân: jsjdaksdas, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:25] Kênh: lalaal, Người gửi: dat, Tin nhắn: dat: dsam,dá, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:25] Kênh: lalaal, Người gửi: nhân, Tin nhắn: dat: dsam,dá, Trạng thái: HOẠT ĐỘNG
+[2025-04-26 23:45:33] Kênh: lalaal, Người gửi: dat, Tin nhắn: nhân: dsdsadas, Trạng thái: HOẠT ĐỘNG
+
